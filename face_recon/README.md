@@ -20,7 +20,7 @@ This repository implements a real-time face recognition system with integrated s
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/a-struct-of-matter/face-recogniton-spoof-detection.git](https://www.google.com/search?q=https://github.com/a-struct-of-matter/face-recogniton-spoof-detection.git)
+    git clone [https://github.com/a-struct-of-matter/face-recogniton]
     cd face-recogniton-spoof-detection
     ```
 
