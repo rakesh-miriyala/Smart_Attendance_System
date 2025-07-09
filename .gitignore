@@ -10,23 +10,18 @@ __pycache__/
 
 
 classifier.pkl
-
 temp.py
 test2.py
-
+rtsp.py # Added rtsp.py as per your last input
 
 yolov8m.pt
 yolov8n.pt
 
 
-
 /face_recon/aligned_images/*
-
 !/face_recon/aligned_images/*/
 
-
 /face_recon/image_feed/*
-
 !/face_recon/image_feed/*/
 
 
@@ -36,6 +31,5 @@ yolov8n.pt
 .DS_Store
 Thumbs.db
 
-/employee_faces
 
-/smart_attendance
+/smart_attendance/
