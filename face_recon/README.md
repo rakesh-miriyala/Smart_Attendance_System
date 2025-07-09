@@ -21,7 +21,7 @@ This repository implements a real-time face recognition system with integrated s
 
     ```bash
     git clone [https://github.com/a-struct-of-matter/face-recogniton]
-    cd face-recogniton-spoof-detection
+    cd face-recogniton
     ```
 
 2.  **Create a virtual environment (recommended):**
