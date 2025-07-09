@@ -1,0 +1,5 @@
+path: D:/face_recon/object_detection/datasets/data  # Base dataset directory
+train: images/train/images  # Relative path to training images
+val: images/val/images  # Relative path to validation images
+nc: 1  # Replace with the number of object classes
+names: ["phone"]  # Replace with actual class names
