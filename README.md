@@ -92,6 +92,8 @@ This project combines face recognition and object detection for enhanced securit
 
     * Modify the `conf` parameter in the `results=(frame, conf=0.75)` line within `main.py` to change the confidence threshold.
 
+![WhatsApp Image 2025-08-08 at 20 03 08_e17bb56f](https://github.com/user-attachments/assets/90a899fb-8a60-4a7d-b916-5915e048a474)
+
 ## Important Notes:
 
 * **Dataset:** Ensure that images are properly formatted and placed in the appropriate directory.
