@@ -94,6 +94,14 @@ This project combines face recognition and object detection for enhanced securit
 
 ![WhatsApp Image 2025-08-08 at 20 03 08_e17bb56f](https://github.com/user-attachments/assets/90a899fb-8a60-4a7d-b916-5915e048a474)
 
+![WhatsApp Image 2025-08-08 at 20 03 25_1967b191](https://github.com/user-attachments/assets/1158a0d4-028d-4dc4-9314-3fd0129fba36)
+
+![WhatsApp Image 2025-07-30 at 22 20 02_d6ee704c](https://github.com/user-attachments/assets/dcc9c05b-7f31-4afe-b7c6-1a73d44707fc)
+
+
+![WhatsApp Image 2025-07-30 at 22 20 02_960e06da](https://github.com/user-attachments/assets/293b3082-1500-44a5-9425-7a7cea3a4197)
+
+
 ## Important Notes:
 
 * **Dataset:** Ensure that images are properly formatted and placed in the appropriate directory.
